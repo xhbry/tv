@@ -1,19 +1,19 @@
 {
   "urls": [
     {
-      "url": "https://github.com/xhbry/tv/edit/main/111.php",
+      "url": "https://mirror.ghproxy.com/https://github.com/xhbry/tv/edit/main/111.php",
       "name": "📢家庭线路1📢"
     },
     {
-      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=all&jar=all&b=六",
+      "url": "https://mirror.ghproxy.com/https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=all&jar=all&b=六",
       "name": "💚阿里4k-token线路2💚"
     },
     {
-      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=a3&jar=a3&b=六",
+      "url": "https://mirror.ghproxy.com/https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=a3&jar=a3&b=六",
       "name": "💖学习娱乐线路3💖"
     },
     {
-      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=index&jar=index&321&b=六",
+      "url": "https://mirror.ghproxy.com/https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=index&jar=index&321&b=六",
       "name": "👇下面收集网络线路👇"
     },
     {
