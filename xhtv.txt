@@ -1,19 +1,19 @@
 {
   "urls": [
     {
-      "url": "http://o.nxog.top/m/111.php?ou=备用&mz=index&jar=index&123&b=六",
+      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用&mz=index&jar=index&123&b=六",
       "name": "📢家庭线路1📢"
     },
     {
-      "url": "http://o.nxog.top/m/111.php?ou=备用app&mz=all&jar=all&b=六",
+      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=all&jar=all&b=六",
       "name": "💚阿里4k-token线路2💚"
     },
     {
-      "url": "http://o.nxog.top/m/111.php?ou=备用app&mz=a3&jar=a3&b=六",
+      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=a3&jar=a3&b=六",
       "name": "💖学习娱乐线路3💖"
     },
     {
-      "url": "http://o.nxog.top/m/111.php?ou=备用app&mz=index&jar=index&321&b=六",
+      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用app&mz=index&jar=index&321&b=六",
       "name": "👇下面收集网络线路👇"
     },
     {
