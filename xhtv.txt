@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://github.com/xhbry/tv/edit/main/111.php?ou=备用&mz=index&jar=index&123&b=六",
+      "url": "https://github.com/xhbry/tv/edit/main/111.php",
       "name": "📢家庭线路1📢"
     },
     {
