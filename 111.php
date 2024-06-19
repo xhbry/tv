@@ -1,13 +1,13 @@
 
 <!-- saved from url=(0028)https://o.nxog.top/m/111.php -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="chrome-extension://ekkkldemlhnacnfegdihallelglbnhnl/js/page_finish.js"></script><script src="./111.php_files/tongji" type="text/javascript" async="" charset="utf-8"></script></head><body>//🇨🇳欧歌整合本接口
-//
+//关注微信公众号【欧歌APP】有惊喜哦！！
 //接口大全 https://o.nxog.top  
 
 {
 "wallpaper":"./t/",
 "logo":"./LOGO2.gif",
-"spider":"https://o.nxog.top/m/jar.php?id=ou&amp;ou=;md5;4faca299df1fcb258ca9128e620e5b22","warningText":"提示:
+"spider":"https://o.nxog.top/m/jar.php?id=ou&amp;ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22","warningText":"公众号欧歌app提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -18,7 +18,7 @@
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢感谢使用","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公告❤更新:6/17❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=;md5;244027cbc4b3cd016d8335d175688367","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b="},
+{"key":"豆瓣1","name":"📢公众号欧歌app公告❤更新:6/17❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=公众号欧歌app"},
 
 
 //jar🎄🛶🎄🎃💘💖💖
@@ -150,8 +150,8 @@
 //动漫
 {"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},
 
-{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=;md5;244027cbc4b3cd016d8335d175688367",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
-{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=;md5;244027cbc4b3cd016d8335d175688367","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
+{"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
+{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"https://o.nxog.top/m/jar.php?id=danmu&amp;ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
 {"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 
@@ -227,4 +227,4 @@
 		{"category":4,"name":"mediacodec-hevc","value":"1"},
 		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 		
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}</body></html>
+"ads":["]}</body></html>
